@@ -25,14 +25,52 @@ To access source code: https://github.com/hzrkc/Platform-Oyunu
 ## UI
 <br>
 
-* **Menu:** 
+**Menu:** 
 
-  <img src="" height="200">
+  <img src="https://github.com/hzrkc/Platformer/blob/main/Images/MainMenu.png?raw=true">
 
-* **In Game:** 
+<br>
 
-  <img src="" align ="left" height="200">
+**In Game:** 
 
-  <img src="" align ="left" height="200">
+  <img src="https://github.com/hzrkc/Platformer/blob/main/Images/InGame.png?raw=true" >
 
-  <img src="" align ="left" height="200">
+<br>
+
+**Level Complete:** 
+
+  <img src="https://github.com/hzrkc/Platformer/blob/main/Images/LevelComplete.png?raw=true" >
+
+<br>
+
+**End Game Menu:** 
+
+  <img src="https://github.com/hzrkc/Platformer/blob/main/Images/EndGameMenu.png?raw=true" >
+
+<br>
+
+## Assets
+
+<br>
+
+**Materials:**
+
+<img src="https://github.com/hzrkc/Platformer/blob/main/Images/Materials.png?raw=true" >
+
+<br>
+
+**Prefabs:**
+
+<img src="https://github.com/hzrkc/Platformer/blob/main/Images/Prefab.png?raw=true" >
+
+<br>
+
+**Scripts:**
+
+<img src="https://github.com/hzrkc/Platformer/blob/main/Images/Scripts.png?raw=true" >
+
+<br>
+
+**Scenes:**
+
+<img src="https://github.com/hzrkc/Platformer/blob/main/Images/Scenes.png?raw=true" >
