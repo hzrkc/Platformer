@@ -4,9 +4,22 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Eo_circle_purple_letter-p.svg/1024px-Eo_circle_purple_letter-p.svg.png" alt="hzrkc" width="100"></a>
   <br>
-  PLATFORMER
+  PLATFORMER V2
   <br>
 </h1>
+
+---
+
+### **Platformer V2 Update: 6.26.2024!!!**
+
+**NEW:** 4 new levels  
+**NEW:** Moving Obstacles  
+**NEW:** Pendulum and Health Systems  
+**NEW:** New Platform Designs (Disjointed and inclined platforms)  
+**NEW:** UI Updates
+
+---
+
 
 Hi Everyone, This is my 3D Platformer Ball Game Project. Hope you enjoy it ! <3
 
