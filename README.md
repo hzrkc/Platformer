@@ -29,6 +29,36 @@ NOTE: This project only works on Windows 64-Bit systems.
 
 To access source code: https://github.com/hzrkc/Platform-Oyunu
 
+## What's New in V2?
+
+**1. New Levels**
+
+Experience four exciting new levels with unique challenges and designs.
+
+**2. Moving Obstacles**
+
+Navigate through levels with dynamic and moving obstacles that add an extra layer of difficulty.
+  
+![Moving Obstacles](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/bariyer_gif.gif?raw=true)
+
+**3. Pendulum and Health Systems**
+
+Introducing the pendulum system that requires precise timing to avoid obstacles, and a health system to track your progress.
+  
+![Pendulum System](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/Sarkaç.png?raw=true)
+![Health System](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/Can.png?raw=true)
+
+**4. New Platform Designs**
+
+Explore new platform types, including disjointed and inclined platforms that test your agility and jumping skills.
+  
+![Inclined Platforms](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/E%C4%9FimliMap.png?raw=true)
+![Jumping Action](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/ziplama_gif.gif?raw=true)
+![Swinging Pendulum](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/sarkac_gif.gif?raw=true)
+
+---
+
+
 <br>
 
 ***Programming Language:*** C# - Unity
