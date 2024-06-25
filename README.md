@@ -16,6 +16,7 @@
 **NEW:** Moving Obstacles  
 **NEW:** Pendulum and Health Systems  
 **NEW:** New Platform Designs (Disjointed and inclined platforms)  
+**NEW:** UI Updates
 
 ---
 
