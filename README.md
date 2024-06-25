@@ -46,6 +46,7 @@ Navigate through levels with dynamic and moving obstacles that add an extra laye
 Introducing the pendulum system that requires precise timing to avoid obstacles, and a health system to track your progress.
   
 ![Pendulum System](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/Sarkaç.png?raw=true)
+![Swinging Pendulum](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/sarkac_gif.gif?raw=true)
 ![Health System](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/Can.png?raw=true)
 
 **4. New Platform Designs**
@@ -54,7 +55,6 @@ Explore new platform types, including disjointed and inclined platforms that tes
   
 ![Inclined Platforms](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/E%C4%9FimliMap.png?raw=true)
 ![Jumping Action](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/ziplama_gif.gif?raw=true)
-![Swinging Pendulum](https://github.com/hzrkc/Platformer/blob/main/Images/V2%20Images/sarkac_gif.gif?raw=true)
 
 ---
 
